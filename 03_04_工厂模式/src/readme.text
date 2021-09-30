@@ -1,0 +1,3 @@
+使用Moveable解决了 定制任意交通工具 实现Moveable
+使用CarFactory解决了 定制任意生产过程  XXXXFactory.create() 返回值为Moveable
+retrofitfactorymethod：复习工厂模式的代码

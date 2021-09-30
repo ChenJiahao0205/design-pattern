@@ -1,0 +1,4 @@
+command是参考马士兵老师的
+commandplus是参考菜鸟教程的
+commandpluschain引入责任链的概念，实现链式添加命令
+commandpluschainfactory在引入责任链的概念之后又引入了工厂的概念
