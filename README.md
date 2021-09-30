@@ -1,2 +1,0 @@
-# design-pattern
-# design-pattern
